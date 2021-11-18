@@ -1,0 +1,11 @@
+name: Ultra vault
+description: Is it endless?
+type: StorageBlock
+size: 1
+health: 9999999
+hasItems: true
+itemCapacity: 1000000
+requirements: [
+]
+category: effect
+buildVisibility: sandboxOnly
