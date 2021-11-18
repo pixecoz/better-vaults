@@ -1,0 +1,13 @@
+name: Box
+description: Compact Box for storing resources. With this box, you can increase the capacity of the core.
+type: StorageBlock
+size: 1
+health: 45
+hasItems: true
+itemCapacity: 50
+requirements: [
+copper/60
+lead/40
+]
+research: container
+category: effect

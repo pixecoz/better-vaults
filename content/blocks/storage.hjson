@@ -1,0 +1,15 @@
+name: Storage
+description: The size of this miracle is 4 * 4, which makes it quite large, but there is better. With this stotage, you can increase the capacity of the core.
+type: StorageBlock
+size: 4
+health: 500
+hasItems: true
+itemCapacity: 2500
+requirements: [
+titanium/800
+thorium/500
+plastanium/150
+phase-alloy/80
+]
+research: vault
+category: effect
