@@ -1,0 +1,15 @@
+name: Phase Unloader
+description: Instantly unloading resources.
+type: Unloader
+requirements: [
+lead/150
+titanium/135
+metaglass/50
+silicon/80
+surge-alloy/40
+phase-fabric/35
+]
+category: effect
+speed: 0
+group: transportation
+research: surge-unloader

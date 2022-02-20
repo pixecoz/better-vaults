@@ -1,0 +1,13 @@
+name: Surge Unloader
+description: better than unloader! This speed is achieved using the kinetic energy of the alloy.
+type: Unloader
+requirements: [
+lead/95
+titanium/70
+silicon/55
+surge-alloy/25
+]
+category: effect
+speed: 2.75
+group: transportation
+research: unloader
